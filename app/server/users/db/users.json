@@ -1,0 +1,2089 @@
+[
+    {
+        "id": 1,
+        "avatar": "https://robohash.org/nonquisquamvoluptatem.jpg?size=50x50&set=set1",
+        "name": "Katherine",
+        "surname": "Castillo",
+        "gender": "F",
+        "address": {
+            "city": "Barra do Bugres",
+            "street": "1564 Mayfield Pass"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "avatar": "http://brusselsred.eu/wp-content/uploads/2015/10/darth-vader-face1.jpg",
+        "name": "Darth",
+        "surname": "Vader",
+        "gender": "M",
+        "address": {
+            "city": "Cloud City",
+            "street": "Death Star Avenue"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 4
+            }
+        ],
+        "id": "2"
+    },
+    {
+        "id": 3,
+        "avatar": "https://robohash.org/molestiaeetitaque.jpg?size=50x50&set=set1",
+        "name": "Lillian",
+        "surname": "Hill",
+        "gender": "F",
+        "address": {
+            "city": "Babagan",
+            "street": "18 Burning Wood Lane"
+        },
+        "weapons": [
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "avatar": "https://robohash.org/deseruntquinihil.bmp?size=50x50&set=set1",
+        "name": "Robert",
+        "surname": "Gray",
+        "gender": "M",
+        "address": {
+            "city": "Henggang",
+            "street": "380 Eggendart Place"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "avatar": "https://robohash.org/dictaetaliquam.jpg?size=50x50&set=set1",
+        "name": "Louis",
+        "surname": "Henderson",
+        "gender": "M",
+        "address": {
+            "city": "Dadap",
+            "street": "852 Nevada Point"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "avatar": "https://robohash.org/maioresitaquedoloribus.jpg?size=50x50&set=set1",
+        "name": "Edward",
+        "surname": "Cruz",
+        "gender": "M",
+        "address": {
+            "city": "Tadianjie",
+            "street": "78286 Sunfield Circle"
+        },
+        "weapons": [
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "avatar": "https://robohash.org/possimusetunde.bmp?size=50x50&set=set1",
+        "name": "Roy",
+        "surname": "Brown",
+        "gender": "M",
+        "address": {
+            "city": "Tešanj",
+            "street": "2947 Mayfield Terrace"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "avatar": "https://robohash.org/sedaccusamusqui.jpg?size=50x50&set=set1",
+        "name": "Gregory",
+        "surname": "Hernandez",
+        "gender": "M",
+        "address": {
+            "city": "Köpingsvik",
+            "street": "3742 Welch Hill"
+        },
+        "weapons": [
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "avatar": "https://robohash.org/etquodolorum.png?size=50x50&set=set1",
+        "name": "James",
+        "surname": "Berry",
+        "gender": "M",
+        "address": {
+            "city": "Bayart Huxu",
+            "street": "6 Washington Trail"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            }
+        ]
+    },
+    {
+        "avatar": "http://brusselsred.eu/wp-content/uploads/2015/10/darth-vader-face1.jpg",
+        "name": "Darth",
+        "surname": "Vader",
+        "gender": "M",
+        "address": {
+            "city": "Cloud City",
+            "street": "Death Star Avenue"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 4
+            }
+        ],
+        "id": 10
+    },
+    {
+        "id": 11,
+        "avatar": "https://robohash.org/iustoeumet.jpg?size=50x50&set=set1",
+        "name": "Patricia",
+        "surname": "Morales",
+        "gender": "F",
+        "address": {
+            "city": "Tombatu",
+            "street": "3 Maywood Avenue"
+        },
+        "weapons": [
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "avatar": "https://robohash.org/dignissimosminusab.jpg?size=50x50&set=set1",
+        "name": "Robert",
+        "surname": "Ramirez",
+        "gender": "M",
+        "address": {
+            "city": "Andekantor",
+            "street": "1778 Butterfield Trail"
+        },
+        "weapons": [
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "avatar": "https://robohash.org/necessitatibusdolorepraesentium.png?size=50x50&set=set1",
+        "name": "Dennis",
+        "surname": "Wheeler",
+        "gender": "M",
+        "address": {
+            "city": "Przelewice",
+            "street": "54 Forest Center"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "avatar": "https://robohash.org/fugiatdoloremquequis.jpg?size=50x50&set=set1",
+        "name": "Donald",
+        "surname": "Fields",
+        "gender": "M",
+        "address": {
+            "city": "Las Varillas",
+            "street": "273 Brown Trail"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "avatar": "https://robohash.org/aestodit.jpg?size=50x50&set=set1",
+        "name": "Gregory",
+        "surname": "Simmons",
+        "gender": "M",
+        "address": {
+            "city": "Antananarivo",
+            "street": "6 Daystar Point"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "avatar": "https://robohash.org/itaquealiquamest.bmp?size=50x50&set=set1",
+        "name": "Raymond",
+        "surname": "Hicks",
+        "gender": "M",
+        "address": {
+            "city": "Ma'an",
+            "street": "0 Havey Avenue"
+        },
+        "weapons": [
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "avatar": "https://robohash.org/vitaetemporarem.jpg?size=50x50&set=set1",
+        "name": "Debra",
+        "surname": "Wells",
+        "gender": "F",
+        "address": {
+            "city": "Lugo",
+            "street": "7804 Starling Alley"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "avatar": "https://robohash.org/nesciuntveritatisquaerat.jpg?size=50x50&set=set1",
+        "name": "Deborah",
+        "surname": "Hansen",
+        "gender": "F",
+        "address": {
+            "city": "El Cubolero",
+            "street": "244 Shelley Road"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "avatar": "https://robohash.org/eaquedictaiusto.png?size=50x50&set=set1",
+        "name": "John",
+        "surname": "Perkins",
+        "gender": "M",
+        "address": {
+            "city": "Phichit",
+            "street": "52619 Spenser Trail"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "avatar": "https://robohash.org/debitiserrorut.png?size=50x50&set=set1",
+        "name": "Michelle",
+        "surname": "Howard",
+        "gender": "F",
+        "address": {
+            "city": "Norrtälje",
+            "street": "1940 Quincy Road"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "avatar": "https://robohash.org/eaquemolestiaeveniam.bmp?size=50x50&set=set1",
+        "name": "Steve",
+        "surname": "Collins",
+        "gender": "M",
+        "address": {
+            "city": "Zabierzów",
+            "street": "9 Ronald Regan Parkway"
+        },
+        "weapons": [
+            {
+                "name": "Ascia bipenne",
+                "id": "1",
+                "description": "L\"ascia bipenne Ã¨ una scure a due lame, simbolo del potere minoico.",
+                "image": "http://khazalidgrungron.altervista.org/axes/05.png",
+                "price": 3.5,
+                "availability": 3,
+                "races": [
+                    "human",
+                    "dwarf"
+                ]
+            },
+            {
+                "name": "Katana",
+                "id": "2",
+                "description": "Arma inizialmente usata dai Samurai e successivamente evolutasi con le arti Ninja.",
+                "image": "http://www.clker.com/cliparts/5/s/J/S/8/i/wakisashi-sword.svg",
+                "price": 4,
+                "availability": 0,
+                "races": [
+                    "human",
+                    "elf"
+                ]
+            },
+            {
+                "name": "Pugnale",
+                "id": "3",
+                "description": "Arma da taglio usata unicamente per gli scontri ravvicinati. PuÃ² essere nascosta, in modo da cogliere di sorpresa il nemico.",
+                "image": "http://www.dailyclipart.net/wp-content/uploads/medium/Pirates3.jpg",
+                "price": 2.99,
+                "availability": 4,
+                "races": [
+                    "human",
+                    "elf",
+                    "dwarf"
+                ]
+            },
+            {
+                "name": "Shuriken",
+                "id": "4",
+                "description": "Arma esclusivamente da lancio. Grazie alla forma e alla struttura, raggiunge puÃ² raggiungere una velocitÃ  impressionante.",
+                "image": "http://www.karatemart.com/images/products/large/tiny-typhoon-shuriken.jpg",
+                "price": 1,
+                "availability": 2,
+                "races": [
+                    "human",
+                    "elf"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "avatar": "https://robohash.org/quibusdamvoluptatemest.png?size=50x50&set=set1",
+        "name": "Pamela",
+        "surname": "Hunt",
+        "gender": "F",
+        "address": {
+            "city": "Beijós",
+            "street": "24852 Red Cloud Plaza"
+        },
+        "weapons": [
+            {
+                "name": "Ascia bipenne",
+                "id": "1",
+                "description": "L\"ascia bipenne Ã¨ una scure a due lame, simbolo del potere minoico.",
+                "image": "http://khazalidgrungron.altervista.org/axes/05.png",
+                "price": 3.5,
+                "availability": 3,
+                "races": [
+                    "human",
+                    "dwarf"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "avatar": "https://robohash.org/sintutexcepturi.bmp?size=50x50&set=set1",
+        "name": "Steve",
+        "surname": "Carpenter",
+        "gender": "M",
+        "address": {
+            "city": "Grenoble",
+            "street": "8185 Calypso Circle"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "avatar": "https://robohash.org/asperioresvelitamet.bmp?size=50x50&set=set1",
+        "name": "Richard",
+        "surname": "Hunter",
+        "gender": "M",
+        "address": {
+            "city": "Maebashi-shi",
+            "street": "68 Messerschmidt Avenue"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "avatar": "https://robohash.org/nostrumminimaut.png?size=50x50&set=set1",
+        "name": "Harry",
+        "surname": "Sanders",
+        "gender": "M",
+        "address": {
+            "city": "Adir",
+            "street": "5482 Ruskin Center"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "avatar": "https://robohash.org/numquamperferendisvoluptas.jpg?size=50x50&set=set1",
+        "name": "Richard",
+        "surname": "Murphy",
+        "gender": "M",
+        "address": {
+            "city": "Sioguí Abajo",
+            "street": "71827 Derek Center"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "avatar": "https://robohash.org/etdoloribusqui.png?size=50x50&set=set1",
+        "name": "Joe",
+        "surname": "Fowler",
+        "gender": "M",
+        "address": {
+            "city": "Har Nur",
+            "street": "47280 Packers Alley"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "avatar": "https://robohash.org/excepturiasperioresmagni.bmp?size=50x50&set=set1",
+        "name": "Gary",
+        "surname": "Griffin",
+        "gender": "M",
+        "address": {
+            "city": "Viterbo",
+            "street": "09385 Wayridge Place"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "avatar": "https://robohash.org/minusvoluptaseum.png?size=50x50&set=set1",
+        "name": "Louis",
+        "surname": "Rose",
+        "gender": "M",
+        "address": {
+            "city": "Xuefeng",
+            "street": "35725 Dorton Way"
+        },
+        "weapons": [
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "avatar": "https://robohash.org/omnisrepellendussoluta.png?size=50x50&set=set1",
+        "name": "Howard",
+        "surname": "Wells",
+        "gender": "M",
+        "address": {
+            "city": "Wa’eryi",
+            "street": "4 Delladonna Alley"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "avatar": "https://robohash.org/etiustovoluptatem.jpg?size=50x50&set=set1",
+        "name": "Eric",
+        "surname": "Little",
+        "gender": "M",
+        "address": {
+            "city": "Chama",
+            "street": "8131 Nevada Court"
+        },
+        "weapons": [
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "avatar": "https://robohash.org/quidelenitimolestias.jpg?size=50x50&set=set1",
+        "name": "Paula",
+        "surname": "Hunt",
+        "gender": "F",
+        "address": {
+            "city": "Jiangbei",
+            "street": "188 Green Ridge Parkway"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "avatar": "https://robohash.org/numquamomnispossimus.png?size=50x50&set=set1",
+        "name": "Jean",
+        "surname": "Howard",
+        "gender": "F",
+        "address": {
+            "city": "Saint John’s",
+            "street": "9 Orin Street"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "avatar": "https://robohash.org/eteuma.png?size=50x50&set=set1",
+        "name": "Brenda",
+        "surname": "Fuller",
+        "gender": "F",
+        "address": {
+            "city": "Bang Rak",
+            "street": "29789 Kennedy Center"
+        },
+        "weapons": [
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "avatar": "https://robohash.org/namdistinctioipsa.png?size=50x50&set=set1",
+        "name": "Todd",
+        "surname": "Willis",
+        "gender": "M",
+        "address": {
+            "city": "Saint-Laurent-du-Var",
+            "street": "67212 Sachtjen Place"
+        },
+        "weapons": [
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "avatar": "https://robohash.org/liberoutquam.bmp?size=50x50&set=set1",
+        "name": "Thomas",
+        "surname": "Hudson",
+        "gender": "M",
+        "address": {
+            "city": "Lok",
+            "street": "75 Village Parkway"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "avatar": "https://robohash.org/sedexcepturiodit.jpg?size=50x50&set=set1",
+        "name": "Amanda",
+        "surname": "Hawkins",
+        "gender": "F",
+        "address": {
+            "city": "Suwaru",
+            "street": "62157 Magdeline Terrace"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "avatar": "https://robohash.org/errorutpossimus.png?size=50x50&set=set1",
+        "name": "Patricia",
+        "surname": "Mills",
+        "gender": "F",
+        "address": {
+            "city": "Nigríta",
+            "street": "1938 Sauthoff Avenue"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "avatar": "https://robohash.org/utveldolores.bmp?size=50x50&set=set1",
+        "name": "Timothy",
+        "surname": "Wheeler",
+        "gender": "M",
+        "address": {
+            "city": "Pasarnangka",
+            "street": "89 Montana Park"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "avatar": "https://robohash.org/quiullamprovident.png?size=50x50&set=set1",
+        "name": "Todd",
+        "surname": "Fowler",
+        "gender": "M",
+        "address": {
+            "city": "Baisha",
+            "street": "4 Ramsey Street"
+        },
+        "weapons": [
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "avatar": "https://robohash.org/quiaconsequaturcum.png?size=50x50&set=set1",
+        "name": "Phyllis",
+        "surname": "Howard",
+        "gender": "F",
+        "address": {
+            "city": "Ainaži",
+            "street": "745 Mccormick Park"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "avatar": "https://robohash.org/quodtemporibusdistinctio.png?size=50x50&set=set1",
+        "name": "Walter",
+        "surname": "Allen",
+        "gender": "M",
+        "address": {
+            "city": "Kulun",
+            "street": "831 Lunder Hill"
+        },
+        "weapons": [
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "avatar": "https://robohash.org/fugiatvoluptasdoloremque.bmp?size=50x50&set=set1",
+        "name": "Roger",
+        "surname": "Clark",
+        "gender": "M",
+        "address": {
+            "city": "Chelopech",
+            "street": "66 Northfield Trail"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "avatar": "https://robohash.org/rerumexoccaecati.bmp?size=50x50&set=set1",
+        "name": "Angela",
+        "surname": "Mills",
+        "gender": "F",
+        "address": {
+            "city": "Tinalmud",
+            "street": "56 Ridge Oak Parkway"
+        },
+        "weapons": [
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "avatar": "https://robohash.org/etcorruptipraesentium.jpg?size=50x50&set=set1",
+        "name": "Brandon",
+        "surname": "Robertson",
+        "gender": "M",
+        "address": {
+            "city": "Shaykh al Ḩadīd",
+            "street": "1 Londonderry Trail"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "avatar": "https://robohash.org/quiporroillo.png?size=50x50&set=set1",
+        "name": "Brenda",
+        "surname": "Cunningham",
+        "gender": "F",
+        "address": {
+            "city": "Plast",
+            "street": "326 Memorial Place"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "avatar": "https://robohash.org/quimolestiaecum.jpg?size=50x50&set=set1",
+        "name": "Steven",
+        "surname": "Jones",
+        "gender": "M",
+        "address": {
+            "city": "Songnim",
+            "street": "55428 Mallard Place"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "avatar": "https://robohash.org/hicculpaet.png?size=50x50&set=set1",
+        "name": "Alan",
+        "surname": "Little",
+        "gender": "M",
+        "address": {
+            "city": "Mina de São Domingos",
+            "street": "065 Almo Center"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "avatar": "https://robohash.org/velsintquia.png?size=50x50&set=set1",
+        "name": "Laura",
+        "surname": "Simmons",
+        "gender": "F",
+        "address": {
+            "city": "New Glasgow",
+            "street": "82111 Superior Parkway"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "avatar": "https://robohash.org/pariaturdoloresvelit.bmp?size=50x50&set=set1",
+        "name": "Katherine",
+        "surname": "Armstrong",
+        "gender": "F",
+        "address": {
+            "city": "Pliska",
+            "street": "169 Sunbrook Parkway"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "avatar": "https://robohash.org/cumexid.png?size=50x50&set=set1",
+        "name": "Cynthia",
+        "surname": "Franklin",
+        "gender": "F",
+        "address": {
+            "city": "Steblevë",
+            "street": "616 3rd Court"
+        },
+        "weapons": [
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "avatar": "https://robohash.org/molestiasdebitisab.bmp?size=50x50&set=set1",
+        "name": "Timothy",
+        "surname": "Gray",
+        "gender": "M",
+        "address": {
+            "city": "Pahing Pamulihan",
+            "street": "165 Forest Drive"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "avatar": "https://robohash.org/eiusetlaudantium.png?size=50x50&set=set1",
+        "name": "Donna",
+        "surname": "Walker",
+        "gender": "F",
+        "address": {
+            "city": "Sambongpari",
+            "street": "85211 Rockefeller Parkway"
+        },
+        "weapons": [
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "avatar": "https://robohash.org/esseeteligendi.jpg?size=50x50&set=set1",
+        "name": "Eric",
+        "surname": "Russell",
+        "gender": "M",
+        "address": {
+            "city": "Lindome",
+            "street": "78 Haas Trail"
+        },
+        "weapons": [
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "avatar": "https://robohash.org/rerumsuntconsequatur.bmp?size=50x50&set=set1",
+        "name": "Carol",
+        "surname": "Lane",
+        "gender": "F",
+        "address": {
+            "city": "Guojiazhuang",
+            "street": "0 Independence Pass"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "avatar": "https://robohash.org/hicinciduntenim.png?size=50x50&set=set1",
+        "name": "Keith",
+        "surname": "Hughes",
+        "gender": "M",
+        "address": {
+            "city": "Ödeshög",
+            "street": "8520 Eagle Crest Center"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "avatar": "https://robohash.org/beataeassumendaqui.png?size=50x50&set=set1",
+        "name": "David",
+        "surname": "Peterson",
+        "gender": "M",
+        "address": {
+            "city": "Brzeźnica",
+            "street": "82 Johnson Parkway"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "avatar": "https://robohash.org/quosuttenetur.png?size=50x50&set=set1",
+        "name": "Marie",
+        "surname": "King",
+        "gender": "F",
+        "address": {
+            "city": "Krimpen aan den IJssel",
+            "street": "530 Chive Drive"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "avatar": "https://robohash.org/expeditaomnismolestiae.jpg?size=50x50&set=set1",
+        "name": "Diane",
+        "surname": "Peterson",
+        "gender": "F",
+        "address": {
+            "city": "Adamstown",
+            "street": "3552 Buhler Circle"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "avatar": "https://robohash.org/nobisconsequaturdelectus.png?size=50x50&set=set1",
+        "name": "Samuel",
+        "surname": "Phillips",
+        "gender": "M",
+        "address": {
+            "city": "Rizal",
+            "street": "1228 Prairieview Court"
+        },
+        "weapons": [
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "avatar": "https://robohash.org/veroetdolorem.jpg?size=50x50&set=set1",
+        "name": "Anne",
+        "surname": "Garza",
+        "gender": "F",
+        "address": {
+            "city": "Xiaojiezi",
+            "street": "4 Hauk Lane"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "avatar": "https://robohash.org/magnamvelitquis.png?size=50x50&set=set1",
+        "name": "Matthew",
+        "surname": "Hart",
+        "gender": "M",
+        "address": {
+            "city": "Shatoujiao",
+            "street": "44025 Caliangt Way"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "avatar": "https://robohash.org/istemaioresautem.png?size=50x50&set=set1",
+        "name": "Nicholas",
+        "surname": "Ryan",
+        "gender": "M",
+        "address": {
+            "city": "Białaczów",
+            "street": "20 Arkansas Terrace"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "avatar": "https://robohash.org/nihilvoluptatemitaque.png?size=50x50&set=set1",
+        "name": "Henry",
+        "surname": "Allen",
+        "gender": "M",
+        "address": {
+            "city": "Sambava",
+            "street": "9 Pearson Court"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "avatar": "https://robohash.org/corporissapienteodio.jpg?size=50x50&set=set1",
+        "name": "Paul",
+        "surname": "Greene",
+        "gender": "M",
+        "address": {
+            "city": "Bojong",
+            "street": "65 Hayes Hill"
+        },
+        "weapons": [
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "avatar": "https://robohash.org/ipsasuntin.bmp?size=50x50&set=set1",
+        "name": "Scott",
+        "surname": "Bennett",
+        "gender": "M",
+        "address": {
+            "city": "Mundão",
+            "street": "56 Buhler Point"
+        },
+        "weapons": [
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "avatar": "https://robohash.org/etnisidolorum.jpg?size=50x50&set=set1",
+        "name": "Michelle",
+        "surname": "Stanley",
+        "gender": "F",
+        "address": {
+            "city": "Kamiichi",
+            "street": "2 Tony Road"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "avatar": "https://robohash.org/maioresminusid.jpg?size=50x50&set=set1",
+        "name": "Kelly",
+        "surname": "Carter",
+        "gender": "F",
+        "address": {
+            "city": "San Rafael",
+            "street": "841 Evergreen Parkway"
+        },
+        "weapons": [
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "avatar": "https://robohash.org/aliquidsaepeet.png?size=50x50&set=set1",
+        "name": "Ann",
+        "surname": "Cox",
+        "gender": "F",
+        "address": {
+            "city": "Napanee Downtown",
+            "street": "396 Glacier Hill Court"
+        },
+        "weapons": [
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "avatar": "https://robohash.org/officiisquodculpa.bmp?size=50x50&set=set1",
+        "name": "Jack",
+        "surname": "Nichols",
+        "gender": "M",
+        "address": {
+            "city": "Shanjiao",
+            "street": "61849 Northview Center"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "avatar": "https://robohash.org/utquinisi.jpg?size=50x50&set=set1",
+        "name": "Sara",
+        "surname": "Ward",
+        "gender": "F",
+        "address": {
+            "city": "Mineralni Bani",
+            "street": "3 Steensland Drive"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "avatar": "https://robohash.org/nesciuntaiusto.png?size=50x50&set=set1",
+        "name": "Carl",
+        "surname": "Carroll",
+        "gender": "M",
+        "address": {
+            "city": "Reni",
+            "street": "4856 Spenser Circle"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "avatar": "https://robohash.org/autnisinatus.png?size=50x50&set=set1",
+        "name": "Nicholas",
+        "surname": "Gibson",
+        "gender": "M",
+        "address": {
+            "city": "Jishi",
+            "street": "29688 Hauk Hill"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "avatar": "https://robohash.org/estoditnecessitatibus.jpg?size=50x50&set=set1",
+        "name": "Samuel",
+        "surname": "Young",
+        "gender": "M",
+        "address": {
+            "city": "Valle de Ángeles",
+            "street": "31519 Dorton Way"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "avatar": "https://robohash.org/porrouteveniet.jpg?size=50x50&set=set1",
+        "name": "Philip",
+        "surname": "Sullivan",
+        "gender": "M",
+        "address": {
+            "city": "Ar Raqqah",
+            "street": "71218 Towne Point"
+        },
+        "weapons": [
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "avatar": "https://robohash.org/autoccaecatienim.bmp?size=50x50&set=set1",
+        "name": "Antonio",
+        "surname": "Stevens",
+        "gender": "M",
+        "address": {
+            "city": "Tengah",
+            "street": "70 Claremont Place"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "avatar": "https://robohash.org/eaquodveniam.bmp?size=50x50&set=set1",
+        "name": "Phyllis",
+        "surname": "Stone",
+        "gender": "F",
+        "address": {
+            "city": "Marcovia",
+            "street": "2881 Arizona Terrace"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "avatar": "https://robohash.org/ullamestsint.bmp?size=50x50&set=set1",
+        "name": "Amy",
+        "surname": "Harper",
+        "gender": "F",
+        "address": {
+            "city": "Koski Tl",
+            "street": "74469 Northwestern Alley"
+        },
+        "weapons": [
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "avatar": "https://robohash.org/voluptateesseratione.png?size=50x50&set=set1",
+        "name": "Johnny",
+        "surname": "Diaz",
+        "gender": "M",
+        "address": {
+            "city": "Luoqiao",
+            "street": "1647 Maple Way"
+        },
+        "weapons": [
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "avatar": "https://robohash.org/quiofficiareiciendis.bmp?size=50x50&set=set1",
+        "name": "Lawrence",
+        "surname": "Daniels",
+        "gender": "M",
+        "address": {
+            "city": "Raminho",
+            "street": "8 Barnett Crossing"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "avatar": "https://robohash.org/quifugadolores.bmp?size=50x50&set=set1",
+        "name": "Ronald",
+        "surname": "Wheeler",
+        "gender": "M",
+        "address": {
+            "city": "Chiryū",
+            "street": "06046 Mosinee Center"
+        },
+        "weapons": [
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "avatar": "https://robohash.org/ullamestut.png?size=50x50&set=set1",
+        "name": "David",
+        "surname": "Kelley",
+        "gender": "M",
+        "address": {
+            "city": "Pattani",
+            "street": "731 Forster Crossing"
+        },
+        "weapons": [
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "avatar": "https://robohash.org/veritatisfugiatsed.png?size=50x50&set=set1",
+        "name": "Jason",
+        "surname": "Mitchell",
+        "gender": "M",
+        "address": {
+            "city": "Wanghu",
+            "street": "521 Grover Plaza"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "avatar": "https://robohash.org/utlaboriosamnon.png?size=50x50&set=set1",
+        "name": "Kathy",
+        "surname": "Hicks",
+        "gender": "F",
+        "address": {
+            "city": "Jianlong",
+            "street": "58797 Eastwood Trail"
+        },
+        "weapons": [
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "avatar": "https://robohash.org/nequeetrecusandae.bmp?size=50x50&set=set1",
+        "name": "Timothy",
+        "surname": "Nelson",
+        "gender": "M",
+        "address": {
+            "city": "Ete",
+            "street": "994 Cody Avenue"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "avatar": "https://robohash.org/culpaexcepturiofficiis.jpg?size=50x50&set=set1",
+        "name": "Frances",
+        "surname": "Daniels",
+        "gender": "F",
+        "address": {
+            "city": "Morón",
+            "street": "94636 Grover Point"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "avatar": "https://robohash.org/voluptatemquidemut.png?size=50x50&set=set1",
+        "name": "Anne",
+        "surname": "Pierce",
+        "gender": "F",
+        "address": {
+            "city": "Saint-Denis",
+            "street": "3964 Derek Lane"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "avatar": "https://robohash.org/nonveniamtempore.bmp?size=50x50&set=set1",
+        "name": "Sean",
+        "surname": "Perry",
+        "gender": "M",
+        "address": {
+            "city": "Guinsadan",
+            "street": "2 Monica Lane"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "avatar": "https://robohash.org/doloressedmagnam.png?size=50x50&set=set1",
+        "name": "Martin",
+        "surname": "Hill",
+        "gender": "M",
+        "address": {
+            "city": "Kota Bharu",
+            "street": "07 Granby Park"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "avatar": "https://robohash.org/eaquisquamquia.png?size=50x50&set=set1",
+        "name": "Barbara",
+        "surname": "Palmer",
+        "gender": "F",
+        "address": {
+            "city": "Ranot",
+            "street": "17296 Beilfuss Court"
+        },
+        "weapons": [
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "avatar": "https://robohash.org/evenietaccusamusest.png?size=50x50&set=set1",
+        "name": "Joshua",
+        "surname": "Daniels",
+        "gender": "M",
+        "address": {
+            "city": "Tando Muhammad Khān",
+            "street": "2 Florence Point"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "avatar": "https://robohash.org/sedquiapossimus.jpg?size=50x50&set=set1",
+        "name": "Ronald",
+        "surname": "Burke",
+        "gender": "M",
+        "address": {
+            "city": "Pumai",
+            "street": "2 Doe Crossing Place"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "avatar": "https://robohash.org/voluptatemnonamet.bmp?size=50x50&set=set1",
+        "name": "Evelyn",
+        "surname": "Little",
+        "gender": "F",
+        "address": {
+            "city": "Granard",
+            "street": "2 Schiller Way"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "avatar": "https://robohash.org/seddebitisalias.bmp?size=50x50&set=set1",
+        "name": "Shawn",
+        "surname": "Watson",
+        "gender": "M",
+        "address": {
+            "city": "Nová Cerekev",
+            "street": "111 Merrick Trail"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "avatar": "https://robohash.org/illoeaquo.bmp?size=50x50&set=set1",
+        "name": "Jessica",
+        "surname": "Mendoza",
+        "gender": "F",
+        "address": {
+            "city": "Pando",
+            "street": "21 Sheridan Crossing"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "avatar": "https://robohash.org/quaeratperspiciatisdolor.jpg?size=50x50&set=set1",
+        "name": "Joshua",
+        "surname": "Little",
+        "gender": "M",
+        "address": {
+            "city": "Błędów",
+            "street": "33 Mendota Pass"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "avatar": "https://robohash.org/etofficiaquisquam.jpg?size=50x50&set=set1",
+        "name": "Julie",
+        "surname": "Ryan",
+        "gender": "F",
+        "address": {
+            "city": "Sīdī Sālim",
+            "street": "4 Milwaukee Point"
+        },
+        "weapons": [
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "avatar": "https://robohash.org/animiquiased.bmp?size=50x50&set=set1",
+        "name": "Carlos",
+        "surname": "Ramos",
+        "gender": "M",
+        "address": {
+            "city": "Arendal",
+            "street": "1987 Commercial Trail"
+        },
+        "weapons": [
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "avatar": "https://robohash.org/nobiseteum.png?size=50x50&set=set1",
+        "name": "Donald",
+        "surname": "Frazier",
+        "gender": "M",
+        "address": {
+            "city": "Melíssi",
+            "street": "5656 Eagan Plaza"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "avatar": "https://robohash.org/enimquisest.jpg?size=50x50&set=set1",
+        "name": "Joseph",
+        "surname": "Warren",
+        "gender": "M",
+        "address": {
+            "city": "Cumedak",
+            "street": "9002 Esker Trail"
+        },
+        "weapons": [
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "avatar": "http://brusselsred.eu/wp-content/uploads/2015/10/darth-vader-face1.jpg",
+        "name": "Darth",
+        "surname": "Vader",
+        "gender": "M",
+        "address": {
+            "city": "Cloud City",
+            "street": "Death Star Avenue"
+        },
+        "id": 101
+    },
+    {
+        "avatar": "http://brusselsred.eu/wp-content/uploads/2015/10/darth-vader-face1.jpg",
+        "name": "Darth",
+        "surname": "Vader",
+        "gender": "M",
+        "address": {
+            "city": "Cloud City",
+            "street": "Death Star Avenue"
+        },
+        "weapons": [
+            {
+                "id": 1
+            },
+            {
+                "id": 4
+            }
+        ],
+        "id": 102
+    }
+]
